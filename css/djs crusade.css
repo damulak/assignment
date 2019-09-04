@@ -1,0 +1,198 @@
+.head{
+    text-align: center;
+    
+    
+   
+}
+header{
+    height: 100%;
+    width: 100%;
+    /* background-color: cyan; */
+    border: 3px solid cyan;
+    margin: 0px auto;
+}
+.about-text{
+    display: inline-block;
+    /* border: 5px solid black; */
+    height: 200px;
+    width: 300px;
+    margin-left: 50px;
+    padding-left: 250px;
+    padding-top: 40px;
+    
+}
+.img{
+    float: right;
+    /* border: 5px solid black; */
+    height: 200px;
+    width: 300px;
+    margin-right: 50px;
+    padding-right: 250px;
+    padding-top: 40px;
+}
+.img img{
+    /* height: 50vh; */
+    width: 300px;
+    height: 200px;
+}
+.about-text p{
+    text-align: justify;
+    height: 200px;
+    width: 300px;
+}
+.about-text2{
+    float: right;
+    height: 200px;
+    width: 300px;
+    margin-right: 50px;
+    padding-right:250px;
+    padding-top: 70px;
+    
+}
+.img2{
+    display: inline-block;
+    height: 200px;
+    width: 300px;
+    margin-left: 50px;
+    padding-left: 250px;
+    /* border: 5px solid black; */
+    padding-top: 70px;
+    
+}
+.img2 img{
+    height: 200px;
+    width: 300px;
+}
+.about-text2 p{
+    text-align: justify;
+    height: 200px;
+    width: 300px;
+}
+.about-text3{
+    display: inline-block;
+    height: 200px;
+    width: 300px;
+    margin-left: 50px;
+    padding-left: 250px;
+    padding-top: 70px;
+}
+.img3{
+    float: right;
+    height: 200px;
+    width: 300px;
+    margin-right: 50px;
+    padding-right: 250px;
+    padding-top: 70px;
+
+}
+.img3 img{
+    height: 200px;
+    width: 300px;
+}
+.about-text3 p{
+    text-align: justify;
+    height:200px ;
+    width:300px ;
+}
+.img4{
+    display: inline-block;
+    height:200px ;
+    width: 300px;
+    margin-left: 50px;
+    padding-left: 250px;
+    padding-top: 70px;
+}
+.about-text4{
+    float: right;
+    height: 200px;
+    width: 300px;
+    margin-right: 50px;
+    padding-right: 250px;
+    padding-top: 70px;
+}
+.img4 img{
+    height: 200px;
+    width: 300px;
+}
+.about-text4 p{
+    height: 200px;
+    width: 300px;
+    text-align: justify;
+}
+.about-text5{
+    display: inline-block;
+    height: 200px;
+    width: 300px;
+    margin-left: 50px;
+    padding-left: 250px;
+    padding-top: 70px;
+}
+.img5{
+    float: right;
+    height: 200px;
+    width: 300px;
+    margin-right: 50px;
+    padding-right: 250px;
+    padding-top: 70px;
+}
+.img5 img{
+    height: 200px;
+    width: 300px;
+}
+.about-text5 p{
+    text-align: justify;
+    height: 200px;
+    width: 300px;
+}
+.price{
+    text-align: center;
+}
+.info{
+    text-align: center;
+}
+.name{
+    display: inline-block;
+    width: 40%;
+    padding-left: 100px;
+    
+}
+.E-mail{
+    float:right;
+    width: 40%;
+    padding-right: 100px
+
+}
+.content2{
+    /* background-color: grey; */
+    height: 65vh;
+   
+    
+    
+}
+.timeline{
+    width: 84%;
+    padding-left: 100px;
+}
+.message{
+    width:84% ;
+    padding-left: 100px;
+}
+.btn{
+
+    text-align: right;
+    padding-right: 96px;
+    padding-top: 20px;
+}
+.btn button{
+    padding: 20px 30px 20px 30px;
+    border: 5px cyan;
+    border-radius: 3px;
+    background-color: aqua;
+    color: white;
+}
+.social{
+    text-align: center;
+    background-color: gray;
+    margin-bottom: 50px;
+    height: 200px;
+}
